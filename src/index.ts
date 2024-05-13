@@ -7,7 +7,6 @@ function verify(emp: Employee){
     // verifing employee
 }
 
-let msg: string = "hello";
+let msg: string = "Hello Guys";
 
-
-export default{}
+console.log(msg);
